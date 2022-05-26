@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://www.amazon.com",
+    "viewportHeight": 800,
+    "viewportWidth": 1500,
+    "watchForFileChanges":false,
+    "defaultCommandTimeout": 30000
+
+}
